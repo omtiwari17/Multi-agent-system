@@ -229,7 +229,7 @@ This project demonstrates:
 
 ## Authors
 
-Om Tiwari 
-Paridhi Shirwalkar 
-Nitesh Chourasiya 
-Mradul Jain 
+* Om Tiwari 
+* Paridhi Shirwalkar 
+* Nitesh Chourasiya 
+* Mradul Jain 
