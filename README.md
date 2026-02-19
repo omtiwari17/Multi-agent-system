@@ -59,36 +59,7 @@ User → Streamlit UI → Orchestrator
 
 ## Architecture Diagram
 
-```plantuml
-@startuml
-actor User
-
-package "Frontend (Streamlit UI)" {
-  [Web Interface]
-}
-
-package "Backend Application" {
-  [Orchestrator]
-  [Researcher Agent]
-  [Writer Agent]
-  [Schema Validator]
-  [Storage]
-}
-
-package "External Service" {
-  [LLM API]
-}
-
-User --> [Web Interface]
-[Web Interface] --> [Orchestrator]
-[Orchestrator] --> [Researcher Agent]
-[Researcher Agent] --> [LLM API]
-[Orchestrator] --> [Writer Agent]
-[Writer Agent] --> [LLM API]
-[Orchestrator] --> [Schema Validator]
-[Orchestrator] --> [Storage]
-@enduml
-```
+![Screenshort](images/Architecture_Diagram_1)
 
 ---
 
