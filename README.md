@@ -59,7 +59,7 @@ User → Streamlit UI → Orchestrator
 
 ## Architecture Diagram
 
-![Screenshort](images/Architecture_Diagram_1)
+![Architecture Diagram](images/Architecture_Diagram_1.png)
 
 ---
 
