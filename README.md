@@ -57,6 +57,43 @@ User → Streamlit UI → Orchestrator
 
 ---
 
+## User Interface Flow
+
+The application follows a gated interaction flow to ensure secure API usage.
+
+### Step 1 – Enter API Key
+
+When the application loads:
+
+* User selects LLM Provider (Gemini)
+* User enters API Key
+* User selects Model (default: `gemini/gemini-2.5-flash`)
+* Optional: Enable Verbose Logs
+
+Until a valid API key is entered, the sourcing form remains hidden.
+
+---
+
+### Step 2 – Manufacturing Sourcing Query
+
+After entering the API key, the **Manufacturing Sourcing Query** panel becomes visible.
+
+The form includes pre-filled default values which can be modified:
+
+| Field                | Default Value     |
+| -------------------- | ----------------- |
+| Process              | Injection Molding |
+| Materials            | ABS               |
+| Location Preference  | India             |
+| Monthly Capacity Min | 50000             |
+| Certifications       | ISO 9001          |
+
+Users can modify these values before clicking **Run Agents**.
+
+The system converts these structured inputs into a sourcing query for the Researcher Agent.
+
+---
+
 ## Architecture Diagram
 
 ![Architecture Diagram](images/Architecture_Diagram_1.png)
@@ -65,13 +102,16 @@ User → Streamlit UI → Orchestrator
 
 ## Workflow
 
-1. User submits manufacturing query
-2. Orchestrator initializes session
-3. Researcher Agent generates raw supplier dataset
-4. Schema validation occurs
-5. Writer Agent generates structured report
-6. Artifacts stored
-7. UI displays final output
+1. User opens the application
+2. User enters LLM API Key in the sidebar
+3. Manufacturing Sourcing Query form becomes visible
+4. User reviews or edits pre-filled sourcing parameters
+5. User clicks "Run Agents"
+6. Researcher Agent generates raw supplier dataset
+7. Schema validation occurs
+8. Writer Agent generates structured comparison report
+9. Artifacts stored
+10. UI displays final output
 
 ---
 
@@ -99,10 +139,11 @@ Each run generates:
 ```
 artifacts/
   run_YYYYMMDD_HHMMSS/
-    raw_suppliers.json
-    structured_suppliers.json
-    report.md
-    state.json
+    raw_suppliers.json        # Researcher output
+    structured_suppliers.json # Writer normalized output
+    report.md                 # Final comparison report
+    state.json                # Workflow state tracking
+
 ```
 
 ---
@@ -146,9 +187,9 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```
-GEMINI_API_KEY=your_api_key_here
 CREWAI_DISABLE_TELEMETRY=true
 ```
+# API key is entered through the Streamlit UI (not stored in .env)
 
 ---
 
@@ -168,9 +209,13 @@ http://localhost:8501
 
 ## Example Query
 
-```
-Find aluminum die casting suppliers in India for automotive parts.
-```
+Default UI Configuration Example:
+
+* Process: Injection Molding
+* Materials: ABS
+* Location: India
+* Minimum Monthly Capacity: 50,000 units
+* Certifications: ISO 9001
 
 Output:
 
@@ -212,6 +257,8 @@ Output:
 * No API key persistence
 * Deterministic workflow states
 * Structured artifact logging
+* API key is session-based and not stored on disk
+* Query form remains hidden until valid API key is provided
 
 ---
 
