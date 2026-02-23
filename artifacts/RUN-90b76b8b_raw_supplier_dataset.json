@@ -1,0 +1,254 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-90b76b8b",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Sinco Injection Moulders Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "MIDC, Ambad, Nashik, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Tooling",
+        "Component Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "Nylon",
+        "Polypropylene",
+        "Polycarbonate",
+        "HIPS",
+        "GPPS",
+        "HDPE",
+        "LDPE",
+        "LLDPE",
+        "SAN",
+        "ASA"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@sincoindia.com",
+        "phone": null
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.sincoindia.com/",
+          "notes": "Website states 'leading manufacturer of high-quality plastic injection moulded components'. Lists ABS as a material. States 'ISO 9001:2015 certified company'. Infrastructure includes '20 Injection Moulding machines ranging from 80T to 750T' implying high capacity exceeding 50,000 units/month.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.sincoindia.com/about-us",
+          "notes": "Confirms core business as injection molding and location in Nashik, India.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.sincoindia.com/quality",
+          "notes": "Details ISO 9001:2015 certification.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Plastikon Healthcare India Private Limited",
+      "website": null,
+      "locations": [
+        "Vadodara, Gujarat, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Cleanroom Molding",
+        "Assembly",
+        "Medical Device Manufacturing",
+        "Automotive Component Manufacturing"
+      ],
+      "materials": [
+        "PC",
+        "ABS",
+        "PP",
+        "PE",
+        "PS",
+        "SAN",
+        "PMMA",
+        "POM",
+        "PA",
+        "TPE",
+        "TPU",
+        "PEEK",
+        "PSU",
+        "PES",
+        "PPSU",
+        "LCP"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 13485:2016",
+        "IATF 16949:2016"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.plastikon.com/locations/",
+          "notes": "Confirms presence of Plastikon India Private Limited in Vadodara, Gujarat.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.plastikon.com/capabilities/injection-molding/",
+          "notes": "Mentions plastic injection molding as a core competency and lists ABS among utilized materials. Mentions 'Over 200 presses worldwide' indicating global high-volume capability, with an Indian plant likely capable of 50,000+ units/month.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.plastikon.com/quality-certifications/",
+          "notes": "Lists ISO 9001:2015 and other relevant certifications.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Jyoti Plastic Works Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding Services",
+        "Mold Design",
+        "Tool Manufacturing"
+      ],
+      "materials": [
+        "ABS",
+        "PC",
+        "PP",
+        "HDPE",
+        "LDPE",
+        "NYLON",
+        "HIPS",
+        "GPPS",
+        "SAN",
+        "PMMA",
+        "POM",
+        "PET",
+        "PBT",
+        "TPE",
+        "TPR"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@jyotiplastic.com",
+        "phone": "+91-22-26871161"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.jyotiplastic.com/",
+          "notes": "Website states 'Plastic Injection Molding Services'. Lists ABS as a material. Certifications section states 'ISO 9001:2015 Certified'. Infrastructure section mentions '17 state-of-the-art injection moulding machines ranging from 60 Ton to 500 Ton' indicating high monthly capacity.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.jyotiplastic.com/about-us/",
+          "notes": "Confirms location in Mumbai, India and focus on custom injection molding.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.jyotiplastic.com/quality-and-certifications/",
+          "notes": "Details ISO 9001:2015 certification.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Varun Plast",
+      "website": null,
+      "locations": [
+        "Surat, Gujarat, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Tool Design",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "Nylon",
+        "Acetal",
+        "PVC",
+        "HDPE",
+        "LDPE",
+        "PS",
+        "PMMA",
+        "Polycarbonate"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@varunplast.com",
+        "phone": "+91 93270 30005"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.varunplast.com/",
+          "notes": "Website highlights 'Plastic Injection Molding'. Lists ABS as a material used. 'Quality' section states 'ISO 9001:2015 Certified'. 'Our Infrastructure' states 'Our plant has 25 molding machines, from 60 to 500 tons...' which supports high-volume monthly capacity.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.varunplast.com/about-us.html",
+          "notes": "Confirms operations in Surat, Gujarat, India.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.varunplast.com/quality.html",
+          "notes": "Confirms ISO 9001:2015 certification.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Searched for 'ABS injection molding manufacturers India ISO 9001 high volume'. Identified multiple companies that explicitly state injection molding as a service, list ABS as a material they process, hold ISO 9001 certification, and describe infrastructure (number/tonnage of machines) that implies capacity well over 50,000 units/month. Focused on companies with clear evidence on their official websites. Capacity was inferred from the number and range of injection molding machines available, which typically allows for high volume production."
+  }
+}

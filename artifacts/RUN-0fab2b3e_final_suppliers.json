@@ -1,0 +1,141 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-0fab2b3e",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_004",
+      "supplier_name": "Bright Brothers Ltd.",
+      "fit_score": 0.85,
+      "strengths": [
+        "Core capability: Injection Molding",
+        "Material capability: ABS",
+        "Preferred location: India",
+        "Certification: ISO 9001",
+        "Meets minimum monthly capacity of 50000+ units.",
+        "Certification: ISO 14001 (Environmental Management)",
+        "Certification: IATF 16949 (Automotive Quality Management)",
+        "Exceptional capacity: 14,500 tonnes per annum capacity, far exceeding 50,000 units/month.",
+        "Multiple manufacturing locations in India: Pune, Maharashtra, India, Sahibabad, Uttar Pradesh, India, Pondicherry, India, Bengaluru, Karnataka, India, Chennai, Tamil Nadu, India"
+      ],
+      "gaps": [
+        "Lead time not specified. (Recommended next question)",
+        "Minimum order quantity not specified. (Recommended next question)"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is your typical lead time for an order of this scale (50,000+ units/month)?",
+        "What are your minimum order quantities for ABS injection molded parts?",
+        "Can you provide specific examples of similar ABS injection molded components you've produced for high volume applications?",
+        "Please provide a detailed pricing structure for production and tooling."
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Hi-Tech Plastic Components Pvt. Ltd.",
+      "fit_score": 0.817,
+      "strengths": [
+        "Core capability: Injection Molding",
+        "Material capability: ABS",
+        "Preferred location: India",
+        "Certification: ISO 9001",
+        "Meets minimum monthly capacity of 50000+ units.",
+        "Certification: ISO 14001 (Environmental Management)",
+        "Certification: IATF 16949 (Automotive Quality Management)"
+      ],
+      "gaps": [
+        "Lead time not specified. (Recommended next question)",
+        "Minimum order quantity not specified. (Recommended next question)"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is your typical lead time for an order of this scale (50,000+ units/month)?",
+        "What are your minimum order quantities for ABS injection molded parts?",
+        "Can you provide specific examples of similar ABS injection molded components you've produced for high volume applications?",
+        "Please provide a detailed pricing structure for production and tooling."
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Micron Industries",
+      "fit_score": 0.731,
+      "strengths": [
+        "Core capability: Injection Molding",
+        "Material capability: ABS",
+        "Preferred location: India",
+        "Certification: ISO 9001",
+        "Meets minimum monthly capacity of 50000+ units."
+      ],
+      "gaps": [
+        "Lead time not specified. (Recommended next question)",
+        "Minimum order quantity not specified. (Recommended next question)"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is your typical lead time for an order of this scale (50,000+ units/month)?",
+        "What are your minimum order quantities for ABS injection molded parts?",
+        "Can you provide specific examples of similar ABS injection molded components you've produced for high volume applications?",
+        "Please provide a detailed pricing structure for production and tooling."
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "R. B. Polyplast Pvt. Ltd.",
+      "fit_score": 0.731,
+      "strengths": [
+        "Core capability: Injection Molding",
+        "Material capability: ABS",
+        "Preferred location: India",
+        "Certification: ISO 9001",
+        "Meets minimum monthly capacity of 50000+ units."
+      ],
+      "gaps": [
+        "Lead time not specified. (Recommended next question)",
+        "Minimum order quantity not specified. (Recommended next question)"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is your typical lead time for an order of this scale (50,000+ units/month)?",
+        "What are your minimum order quantities for ABS injection molded parts?",
+        "Can you provide specific examples of similar ABS injection molded components you've produced for high volume applications?",
+        "Please provide a detailed pricing structure for production and tooling."
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_005",
+      "supplier_name": "J. P. Plastics Pvt. Ltd.",
+      "fit_score": 0.731,
+      "strengths": [
+        "Core capability: Injection Molding",
+        "Material capability: ABS",
+        "Preferred location: India",
+        "Certification: ISO 9001",
+        "Meets minimum monthly capacity of 50000+ units."
+      ],
+      "gaps": [
+        "Lead time not specified. (Recommended next question)",
+        "Minimum order quantity not specified. (Recommended next question)"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is your typical lead time for an order of this scale (50,000+ units/month)?",
+        "What are your minimum order quantities for ABS injection molded parts?",
+        "Can you provide specific examples of similar ABS injection molded components you've produced for high volume applications?",
+        "Please provide a detailed pricing structure for production and tooling."
+      ],
+      "evidence_count": 2
+    }
+  ]
+}

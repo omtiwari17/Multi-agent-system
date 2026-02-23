@@ -1,0 +1,81 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-acdcaef9",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Bright Brothers Ltd.",
+      "fit_score": 85.0,
+      "strengths": [
+        "Offers 'Injection Molding'.",
+        "Processes required material 'ABS'.",
+        "Located in 'India'.",
+        "Holds required certification 'ISO 9001'.",
+        "Indicated high-volume production capabilities, meeting the minimum monthly capacity of 50000."
+      ],
+      "gaps": [
+        "Lead time information is not specified.",
+        "Minimum Order Quantity not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "Inquire about typical lead times for products.",
+        "Clarify Minimum Order Quantity (MOQ)."
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Plastipack Industries",
+      "fit_score": 81.67,
+      "strengths": [
+        "Offers 'Plastic Injection Moulding'.",
+        "Processes required material 'ABS'.",
+        "Located in 'India'.",
+        "Holds required certification 'ISO 9001'.",
+        "Indicated high-volume production capabilities, meeting the minimum monthly capacity of 50000."
+      ],
+      "gaps": [
+        "Lead time information is not specified.",
+        "Minimum Order Quantity not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "Inquire about typical lead times for products.",
+        "Clarify Minimum Order Quantity (MOQ)."
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "VIP Polymers Pvt. Ltd.",
+      "fit_score": 81.67,
+      "strengths": [
+        "Offers 'Plastic Injection Molding'.",
+        "Processes required material 'ABS'.",
+        "Located in 'India'.",
+        "Holds required certification 'ISO 9001'.",
+        "Indicated high-volume production capabilities, meeting the minimum monthly capacity of 50000."
+      ],
+      "gaps": [
+        "Lead time information is not specified.",
+        "Minimum Order Quantity not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "Inquire about typical lead times for products.",
+        "Clarify Minimum Order Quantity (MOQ)."
+      ],
+      "evidence_count": 2
+    }
+  ]
+}

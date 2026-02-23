@@ -1,0 +1,274 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-a945da4d",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Jainam Plastic Industries",
+      "website": null,
+      "locations": [
+        "Ahmedabad, Gujarat, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tooling",
+        "Product Design",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "Delrin",
+        "Acrylic",
+        "HIPS",
+        "LDPE",
+        "HDPE"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "jainamplastic@gmail.com",
+        "phone": "+91-9825129064"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.jainamplastic.com/plastic-injection-molding.php",
+          "notes": "Lists injection molding, ABS material, ISO 9001:2015 certification, and mentions 'large volume production'.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.jainamplastic.com/about-us.php",
+          "notes": "Company overview and location details.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Hi-Tech Plastics",
+      "website": null,
+      "locations": [
+        "Pune, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Product Design",
+        "Tooling"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE",
+        "LDPE",
+        "LLDPE",
+        "SAN",
+        "HIPS",
+        "GPPS",
+        "PBT",
+        "POM"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@hitechplastic.com",
+        "phone": "+91-9922915832"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://hitechplastic.com/plastic-injection-moulding.html",
+          "notes": "Confirms plastic injection molding, ABS material, and 'high-volume production' capability. Lists ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://hitechplastic.com/about-us.html",
+          "notes": "Location and general company information.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Sunrise Polymers",
+      "website": null,
+      "locations": [
+        "Chakan, Pune, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tool Design & Development",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE",
+        "SAN",
+        "HIPS"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@sunrise-polymers.com",
+        "phone": "+91-9822002302"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://sunrise-polymers.com/plastic-injection-molding/",
+          "notes": "Details injection molding services, materials including ABS, and 'high-volume production' capabilities. Confirms ISO 9001:2015.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://sunrise-polymers.com/about-us/",
+          "notes": "Location and company profile.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Ramsons Precision Engineering Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Tool Manufacturing",
+        "Assembly",
+        "Prototyping"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "PBT",
+        "POM",
+        "TPE",
+        "PS",
+        "HDPE"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "IATF 16949:2016",
+        "ISO 14001:2015",
+        "OHSAS 18001:2007"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@ramsons-india.com",
+        "phone": "+91-80-41132007"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://ramsons-india.com/plastic-injection-molding/",
+          "notes": "States plastic injection molding, materials including ABS, and 'mass production capabilities.' Lists ISO 9001:2015 and other certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://ramsons-india.com/about-us/",
+          "notes": "Company overview and location in Bengaluru.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Bright Brothers Ltd.",
+      "website": null,
+      "locations": [
+        "Pardi, Gujarat, India",
+        "Puducherry, India",
+        "Ghaziabad, Uttar Pradesh, India",
+        "Haridwar, Uttarakhand, India",
+        "Valsad, Gujarat, India",
+        "Chennai, Tamil Nadu, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Tool Room",
+        "Product Design",
+        "Assembly",
+        "Painting",
+        "Printing"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "HIPS",
+        "SAN",
+        "Nylon",
+        "HDPE",
+        "LDPE",
+        "EVA",
+        "PET"
+      ],
+      "certifications": [
+        "ISO 9001",
+        "ISO 14001",
+        "IATF 16949"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@brightbrothers.co.in",
+        "phone": "+91-22-2493 0220"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://brightbrothers.co.in/manufacturing.html",
+          "notes": "Highlights plastic injection molding, a wide range of materials including ABS, 'large scale manufacturing facilities,' and ISO 9001 certification among others. Multiple plant locations are mentioned.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://brightbrothers.co.in/about-us.html",
+          "notes": "Company profile confirming extensive operations and certifications.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "For all listed suppliers, the monthly capacity of 50,000 units for ABS injection molded parts was inferred based on their explicit statements of 'high-volume production,' 'large-scale manufacturing facilities,' the number and tonnage of their machines (e.g., 20+ to 30+ machines, up to 650 tons), and their clientele in industries requiring high volumes (e.g., automotive, consumer electronics, white goods). While exact numbers are rarely published for general queries, their infrastructure and stated capabilities strongly suggest they can meet or exceed this minimum capacity."
+  }
+}

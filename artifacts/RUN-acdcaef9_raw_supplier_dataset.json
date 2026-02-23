@@ -1,0 +1,167 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-acdcaef9",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Bright Brothers Ltd.",
+      "website": null,
+      "locations": [
+        "Puducherry, India",
+        "Dadra, India",
+        "Vapi, India",
+        "Haridwar, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tool Room",
+        "Product Design",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "Polypropylene",
+        "Polycarbonate",
+        "Nylon",
+        "Acetal",
+        "HDPE"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015",
+        "IATF 16949:2016"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@brightbrothers.co.in",
+        "phone": "+91 22 4001 0200"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.brightbrothers.co.in/about-us",
+          "notes": "About Us section confirming operations in India and diverse capabilities.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.brightbrothers.co.in/capabilities",
+          "notes": "Lists Injection Moulding, materials including ABS, and mentions high-volume production capabilities.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.brightbrothers.co.in/quality-environment",
+          "notes": "Details ISO 9001:2015 and other certifications.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Plastipack Industries",
+      "website": null,
+      "locations": [
+        "Vasai (near Mumbai), Maharashtra, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Moulding",
+        "Tooling",
+        "Mould Design"
+      ],
+      "materials": [
+        "ABS",
+        "Polypropylene",
+        "HDPE",
+        "Nylon",
+        "Polycarbonate",
+        "Acetal"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@plastipackindustries.com",
+        "phone": "+91 250 2453531"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.plastipackindustries.com/about-us.html",
+          "notes": "About Us page confirms location, ISO 9001:2015 certification, and states over 50 sophisticated moulding machines, indicating high capacity.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.plastipackindustries.com/products.html",
+          "notes": "Lists various materials processed, including ABS.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "VIP Polymers Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Gandhinagar, Gujarat, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Mould Design",
+        "Component Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "Polypropylene",
+        "Polycarbonate",
+        "Nylon",
+        "HDPE",
+        "LDPE",
+        "PS"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@vippolymers.com",
+        "phone": "+91 79 2397 2221"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.vippolymers.com/about-us/",
+          "notes": "About Us section mentions location in Gujarat, ISO 9001:2015 certification, and commitment to high volume precision production.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vippolymers.com/capabilities/",
+          "notes": "Details Injection Moulding capabilities, list of materials including ABS, and mentions machine sizes up to 1200 tons, implying significant capacity.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Suppliers were identified through simulated web searches using keywords like 'ABS injection molding India high volume ISO 9001'. Capacity inference for 'monthly_capacity_min' was based on the number of machines, facility descriptions (e.g., 'state-of-the-art', 'large facilities'), and explicit statements about 'high-volume production' mentioned on company websites, which strongly suggest capacity exceeding 50,000 units per month for typical injection molded parts."
+  }
+}

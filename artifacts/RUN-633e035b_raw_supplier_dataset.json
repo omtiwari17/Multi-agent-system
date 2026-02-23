@@ -1,0 +1,299 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-633e035b",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Bright Brothers Ltd.",
+      "website": null,
+      "locations": [
+        "Mumbai, Maharashtra, India",
+        "Pithampur, Madhya Pradesh, India",
+        "Dadra, Dadra and Nagar Haveli, India",
+        "Haridwar, Uttarakhand, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tool Room",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "HDPE",
+        "LDPE",
+        "LLDPE",
+        "PS",
+        "SAN",
+        "PC",
+        "PMMA",
+        "Nylon",
+        "PBT",
+        "POM",
+        "HIPS"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015",
+        "IATF 16949:2016"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@brightbrothers.com",
+        "phone": null
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://brightbrothers.com/about-us/",
+          "notes": "Information about locations, capabilities, and certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://brightbrothers.com/products-services/",
+          "notes": "List of materials processed, including ABS.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://brightbrothers.com/facilities/",
+          "notes": "Mentions seven state-of-the-art facilities and combined processing capacity of over 38,000 MT per annum, which significantly exceeds 50,000 units per month for typical ABS parts.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Parity Polycomp Pvt Ltd",
+      "website": null,
+      "locations": [
+        "Nashik, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Custom Plastic Injection Molding",
+        "Tooling"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "PMMA",
+        "Nylon",
+        "PC-ABS",
+        "PBT",
+        "POM",
+        "HIPS",
+        "GPPS",
+        "SAN"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015",
+        "ISO 45001:2018"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@paritypolycomp.com",
+        "phone": "+91-253-2384232"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://paritypolycomp.com/about-us/",
+          "notes": "Location, capabilities, certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://paritypolycomp.com/products-and-services/",
+          "notes": "List of materials processed, including ABS.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://paritypolycomp.com/infrastructure/",
+          "notes": "Details on 20 injection moulding machines ranging from 80T to 550T, indicating high capacity well over 50,000 units per month.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Plastic Components India (PCI)",
+      "website": null,
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Product Development",
+        "Tool Design & Manufacturing",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "Nylon (PA6, PA66)",
+        "PC",
+        "PP",
+        "HDPE",
+        "LDPE",
+        "PMMA",
+        "PBT",
+        "POM",
+        "PC/ABS",
+        "HIPS",
+        "GPPS",
+        "SAN",
+        "TPE/TPR",
+        "PPO",
+        "PPS",
+        "PEI",
+        "PEEK",
+        "PSU",
+        "LCP"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@plasticcomponentsindia.com",
+        "phone": "+91 98450 71092"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://plasticcomponentsindia.com/about-us/",
+          "notes": "Location, capabilities, certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://plasticcomponentsindia.com/plastic-injection-molding/",
+          "notes": "List of materials processed, including ABS. Mentions facility with 20 injection moulding machines (50T-500T), indicating high capacity well over 50,000 units per month.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Shiv Om Plastic",
+      "website": null,
+      "locations": [
+        "Gurgaon, Haryana, India",
+        "Manesar, Haryana, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Moulding",
+        "Product Design & Development",
+        "Tool Design & Manufacturing",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PC",
+        "PP",
+        "SAN",
+        "Nylon (PA)",
+        "PBT",
+        "POM",
+        "HIPS",
+        "Acrylic"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@shivomplastic.com",
+        "phone": "+91 9310887121"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://shivomplastic.com/about-us/",
+          "notes": "Locations, capabilities, certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://shivomplastic.com/product/",
+          "notes": "List of materials processed, including ABS.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://shivomplastic.com/infrastructure/",
+          "notes": "Details on 16 advanced plastic injection molding machines ranging from 50 tonnes to 450 tonnes, indicating high capacity well over 50,000 units per month.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Shree Saibaba Engineering",
+      "website": null,
+      "locations": [
+        "Pune, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Moulding",
+        "Tooling"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "Nylon",
+        "PC",
+        "SAN",
+        "HIPS",
+        "Delrin",
+        "Polysulfone"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "shreesaibabaengineering@gmail.com",
+        "phone": "+91 9422312218"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://shreesaibabajigs.com/about-us.php",
+          "notes": "Location, certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://shreesaibabajigs.com/products-services.php",
+          "notes": "Capabilities, list of materials processed including ABS. Mentions 24 machines (50T to 300T) with a monthly capacity of 100-120 tons of plastic processing, which translates to over 1,000,000 units per month for typical small-to-medium parts, significantly exceeding 50,000 units per month.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Suppliers were identified using search queries like 'Injection Molding India ABS ISO 9001 manufacturers'. Capacity was inferred from the number and tonnage of injection molding machines or stated processing tonnage. For the monthly capacity of 50,000 units, it's assumed that a typical ABS part weighs a few grams to a few hundred grams. Facilities with multiple machines ranging from 50T to 550T (or stated tonnage processing capacity like 100-120 tons/month or 38,000 MT/year) are considered to easily exceed 50,000 units per month for most common ABS parts. For example, 100 tons/month processing capacity equates to 100,000 kg/month. If an ABS part weighs 100g (0.1kg), this facility can produce 1,000,000 units per month. All listed suppliers clearly indicate the ability to handle ABS material and hold ISO 9001 certification."
+  }
+}

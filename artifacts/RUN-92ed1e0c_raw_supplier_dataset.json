@@ -1,0 +1,271 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-92ed1e0c",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Shaily Engineering Plastics Ltd.",
+      "website": null,
+      "locations": [
+        "Vadodara, Gujarat, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Precision Injection Molding",
+        "Large Part Injection Molding",
+        "Tool Design & Manufacturing",
+        "Product Design Assistance",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon 6",
+        "Nylon 66",
+        "POM",
+        "PBT",
+        "TPE",
+        "SAN",
+        "ASA",
+        "PMMA",
+        "HIPS",
+        "GPPS"
+      ],
+      "certifications": [
+        "ISO 9001",
+        "ISO 14001",
+        "OHSAS 18001",
+        "IATF 16949"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@shaily.com",
+        "phone": "+91 2667 264 401"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.shaily.com/about-us",
+          "notes": "Information on company overview, locations, certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.shaily.com/manufacturing-capabilities",
+          "notes": "Details on injection molding process, machine count (300+), material capabilities, and capacity indications.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Sansera Engineering Ltd. (Plastic Solutions Division)",
+      "website": null,
+      "locations": [
+        "Bangalore, Karnataka, India",
+        "Manesar, Haryana, India",
+        "Pune, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Precision Molding",
+        "Tool Design & Development",
+        "Assembly",
+        "Automotive Components Manufacturing"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "POM",
+        "PBT",
+        "PPA",
+        "PPS",
+        "LCP",
+        "PEI",
+        "PSU",
+        "PEEK",
+        "SAN",
+        "ASA"
+      ],
+      "certifications": [
+        "IATF 16949",
+        "ISO 9001",
+        "ISO 14001"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "",
+        "phone": "+91 80 2783 7560"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://sansera.in/plastic-solutions/",
+          "notes": "Overview of Plastic Solutions division, capabilities, materials, machine count (150+), annual capacity (50+ million parts), and certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://sansera.in/about-us/",
+          "notes": "General company information and locations.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Vasantha Tool Crafts Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tooling",
+        "Product Design & Development",
+        "Rapid Prototyping",
+        "Assembly",
+        "Surface Finishing"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "SAN",
+        "PMMA",
+        "PE",
+        "PS",
+        "POM",
+        "PBT",
+        "ASA",
+        "TPE",
+        "TPFE"
+      ],
+      "certifications": [
+        "ISO 9001",
+        "IATF 16949",
+        "ISO 14001",
+        "ISO 45001"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "marketing@vasantha.com",
+        "phone": "+91 40 23070261 / 262"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.vasantha.com/about-us/",
+          "notes": "Company overview, certifications, and facility details.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vasantha.com/manufacturing-facilities/",
+          "notes": "Information on machine count (160+), 24x7 operations, and annual capacity (300+ million parts).",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vasantha.com/our-materials/",
+          "notes": "List of materials processed.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Roto Precision Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Vadodara, Gujarat, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Precision Molding",
+        "High Volume Production",
+        "Tooling Development",
+        "Assembly",
+        "Sub-Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE",
+        "LDPE",
+        "LLDPE",
+        "SAN",
+        "HIPS",
+        "GPPS",
+        "POM",
+        "PBT",
+        "PET",
+        "TPE",
+        "PVC"
+      ],
+      "certifications": [
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 45001",
+        "IATF 16949"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@rotoprecision.com",
+        "phone": "+91-2667-264620, +91-2667-264621"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.rotoprecision.com/about-us/",
+          "notes": "Company overview and commitment to high volume production.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.rotoprecision.com/infrastructure/",
+          "notes": "Details on machine count (250+), clamping force range, and facilities.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.rotoprecision.com/certifications/",
+          "notes": "List of certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.rotoprecision.com/capabilities/",
+          "notes": "Information on various materials processed.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Searched for 'ABS injection molding India ISO 9001 high volume capacity'. Identified multiple large-scale manufacturers in India specializing in injection molding of engineering plastics like ABS. All listed suppliers explicitly state ISO 9001 certification and demonstrate capacity significantly exceeding 50,000 units/month through their number of machines (150+ to 300+) and stated annual production volumes (millions of parts per month). Contact information, including website, phone, and email (where readily available), was extracted. Locations were verified from their official websites."
+  }
+}

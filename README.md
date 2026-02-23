@@ -196,7 +196,7 @@ CREWAI_DISABLE_TELEMETRY=true
 ## Running the Application
 
 ```bash
-streamlit run frontend.py
+streamlit run frontend/app.py
 ```
 
 Open the browser at:

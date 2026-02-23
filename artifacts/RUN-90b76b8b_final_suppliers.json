@@ -1,0 +1,107 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-90b76b8b",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Sinco Injection Moulders Pvt. Ltd.",
+      "fit_score": 85.0,
+      "strengths": [
+        "Specializes in Plastic Injection Molding.",
+        "Proficient with ABS material.",
+        "Located in India, meeting geographical preference.",
+        "ISO 9001:2015 certified.",
+        "Demonstrated high monthly capacity (20 machines ranging from 80T to 750T)."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum Order Quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects and repeat orders?",
+        "What is your minimum order quantity for ABS injection molded parts?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Plastikon Healthcare India Private Limited",
+      "fit_score": 85.0,
+      "strengths": [
+        "Specializes in Plastic Injection Molding, including Cleanroom Molding.",
+        "Proficient with ABS material.",
+        "Located in India, meeting geographical preference.",
+        "Highly certified (ISO 9001:2015, ISO 13485:2016, and IATF 16949:2016), indicating robust quality systems.",
+        "Demonstrated high global capacity (over 200 presses worldwide), with an Indian plant likely capable of required volume."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum Order Quantity (MOQ) not specified.",
+        "Direct contact email/phone not explicitly available in the provided data."
+      ],
+      "risk_flags": [
+        "Lack of direct contact information (email/phone) in the provided data may require additional effort to initiate contact."
+      ],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects and repeat orders?",
+        "What is your minimum order quantity for ABS injection molded parts?",
+        "What is the best point of contact for new inquiries at the Indian facility?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Jyoti Plastic Works Pvt. Ltd.",
+      "fit_score": 85.0,
+      "strengths": [
+        "Specializes in Plastic Injection Molding.",
+        "Proficient with ABS material.",
+        "Located in India, meeting geographical preference.",
+        "ISO 9001:2015 certified.",
+        "Demonstrated high monthly capacity (17 machines ranging from 60 Ton to 500 Ton)."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum Order Quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects and repeat orders?",
+        "What is your minimum order quantity for ABS injection molded parts?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_004",
+      "supplier_name": "Varun Plast",
+      "fit_score": 85.0,
+      "strengths": [
+        "Specializes in Plastic Injection Molding.",
+        "Proficient with ABS material.",
+        "Located in India, meeting geographical preference.",
+        "ISO 9001:2015 certified.",
+        "Demonstrated high monthly capacity (25 molding machines from 60 to 500 tons)."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum Order Quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects and repeat orders?",
+        "What is your minimum order quantity for ABS injection molded parts?"
+      ],
+      "evidence_count": 3
+    }
+  ]
+}

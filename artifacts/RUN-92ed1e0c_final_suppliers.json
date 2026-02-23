@@ -1,0 +1,116 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-92ed1e0c",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_004",
+      "supplier_name": "Roto Precision Pvt. Ltd.",
+      "fit_score": 0.83,
+      "strengths": [
+        "Located in India",
+        "Specializes in Injection Molding",
+        "Processes ABS material",
+        "ISO 9001 certified",
+        "Demonstrates high volume capacity (250+ machines, focus on high volume production, significantly exceeding 50,000 units/month)",
+        "Comprehensive certifications (IATF 16949, ISO 14001, ISO 45001)",
+        "Strong focus on precision molding and tooling development"
+      ],
+      "gaps": [
+        "Lead time not specified",
+        "Minimum Order Quantity (MOQ) not specified"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is their typical lead time for an order of 50,000 ABS parts?",
+        "What are their minimum order quantity requirements?",
+        "Can they share details on specific projects demonstrating their high-volume capabilities?"
+      ],
+      "evidence_count": 4
+    },
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Shaily Engineering Plastics Ltd.",
+      "fit_score": 0.815,
+      "strengths": [
+        "Located in India",
+        "Specializes in Injection Molding",
+        "Processes ABS material",
+        "ISO 9001 certified",
+        "Demonstrates high volume capacity (300+ machines, significantly exceeding 50,000 units/month)",
+        "Additional certifications (IATF 16949, ISO 14001, OHSAS 18001)",
+        "Capabilities include Precision and Large Part Injection Molding"
+      ],
+      "gaps": [
+        "Lead time not specified",
+        "Minimum Order Quantity (MOQ) not specified"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is their typical lead time for an order of 50,000 ABS parts?",
+        "What are their minimum order quantity requirements?",
+        "Can they provide specific examples of large part injection molding projects?"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Vasantha Tool Crafts Pvt. Ltd.",
+      "fit_score": 0.815,
+      "strengths": [
+        "Located in India",
+        "Specializes in Injection Molding",
+        "Processes ABS material",
+        "ISO 9001 certified",
+        "Demonstrates very high volume capacity (160+ machines, 300+ million parts annually, significantly exceeding 50,000 units/month)",
+        "Comprehensive certifications (IATF 16949, ISO 14001, ISO 45001)",
+        "Offers in-house tooling, product design & development, and 24x7 operations"
+      ],
+      "gaps": [
+        "Lead time not specified",
+        "Minimum Order Quantity (MOQ) not specified"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is their typical lead time for an order of 50,000 ABS parts?",
+        "What are their minimum order quantity requirements?",
+        "Can they provide case studies of projects where they handled both product design and manufacturing?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Sansera Engineering Ltd. (Plastic Solutions Division)",
+      "fit_score": 0.745,
+      "strengths": [
+        "Located in India (multiple locations)",
+        "Specializes in Injection Molding",
+        "Processes ABS material",
+        "ISO 9001 certified",
+        "Demonstrates high volume capacity (150+ machines, 50+ million parts annually, significantly exceeding 50,000 units/month)",
+        "Automotive industry focus with IATF 16949 certification"
+      ],
+      "gaps": [
+        "Lead time not specified",
+        "Minimum Order Quantity (MOQ) not specified",
+        "Email contact not readily available"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is their typical lead time for an order of 50,000 ABS parts?",
+        "What are their minimum order quantity requirements?",
+        "What is the best email contact for new inquiries?",
+        "Can they elaborate on their specific experience with non-automotive ABS components?"
+      ],
+      "evidence_count": 2
+    }
+  ]
+}

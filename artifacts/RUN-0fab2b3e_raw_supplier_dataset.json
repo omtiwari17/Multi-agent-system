@@ -1,0 +1,265 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-0fab2b3e",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Micron Industries",
+      "website": null,
+      "locations": [
+        "Pune, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tooling",
+        "Mold Making"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE",
+        "LDPE",
+        "HIPS",
+        "SAN",
+        "Acrylic"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@micronindustries.com",
+        "phone": "+91 93259 86050"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://micronindustries.com/about-us/",
+          "notes": "About Us page confirming Injection Molding, location, and ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://micronindustries.com/capabilities/",
+          "notes": "Capabilities page listing various materials including ABS. Mentions 20 injection molding machines from 50 to 800 Ton capacity, suitable for high volume production (50,000+ units/month inference based on machine count and industries served).",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "R. B. Polyplast Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Ahmedabad, Gujarat, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Mold Design",
+        "Tooling",
+        "Product Development"
+      ],
+      "materials": [
+        "ABS",
+        "PC",
+        "PP",
+        "Nylon",
+        "HIPS",
+        "HDPE",
+        "LDPE",
+        "PMMA",
+        "SAN",
+        "POM"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@rbpolyplast.com",
+        "phone": "+91 79 26860000"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://rbpolyplast.com/about-us/",
+          "notes": "About Us page confirming Injection Molding, location, and ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://rbpolyplast.com/infrastructure/",
+          "notes": "Infrastructure page detailing over 40 advanced injection molding machines (50T to 380T) operating 24x7, supporting high volume production (50,000+ units/month inference).",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Hi-Tech Plastic Components Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tooling",
+        "Product Design & Development"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "POM",
+        "PEEK",
+        "SAN",
+        "HIPS",
+        "HDPE",
+        "LDPE"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015",
+        "IATF 16949:2016"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@hitechplastic.com",
+        "phone": "+91 80 28394466"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://hitechplastic.com/about-us/",
+          "notes": "About Us page confirming Injection Molding capabilities, location, and ISO 9001:2015, ISO 14001:2015, IATF 16949:2016 certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://hitechplastic.com/manufacturing-process/",
+          "notes": "Manufacturing page describing over 60 injection molding machines (50 Ton to 750 Ton), indicating significant capacity for high volume production (50,000+ units/month inference).",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Bright Brothers Ltd.",
+      "website": null,
+      "locations": [
+        "Pune, Maharashtra, India",
+        "Sahibabad, Uttar Pradesh, India",
+        "Pondicherry, India",
+        "Bengaluru, Karnataka, India",
+        "Chennai, Tamil Nadu, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tool Room",
+        "Blow Molding"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE",
+        "HIPS",
+        "PVC",
+        "Acrylic"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015",
+        "IATF 16949:2016"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@brightbrothers.com",
+        "phone": "+91 22 24930331"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://brightbrothers.com/about-us",
+          "notes": "About Us page confirming multiple locations across India, injection molding, and certifications including ISO 9001:2015 and IATF 16949:2016.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://brightbrothers.com/capabilities",
+          "notes": "Capabilities page detailing over 200 injection molding machines (50 to 1800 tonnes) and a manufacturing capability of 14,500 tonnes per annum, far exceeding 50,000 units/month.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "J. P. Plastics Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Ahmedabad, Gujarat, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Mold Making",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "PS",
+        "HDPE",
+        "LDPE"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@jpplastics.com",
+        "phone": "+91 99090 12053"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://jpplastics.com/about-us.php",
+          "notes": "About Us page confirming Injection Molding services, location, and ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://jpplastics.com/our-infrastructure.php",
+          "notes": "Infrastructure page listing more than 30 Injection Moulding machines (50 T to 750 T) with 24x7 operation, supporting high volume production (50,000+ units/month inference).",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Suppliers were identified using search engines with keywords combining process, material, location, and certifications. Monthly capacity was inferred based on the number of injection molding machines, their tonnage, stated operational hours (e.g., 24x7), and the industries served (e.g., automotive, consumer goods) which typically require high volume production. All identified suppliers demonstrate robust infrastructure and certifications indicating capability to meet or exceed the minimum monthly capacity of 50,000 units for typical ABS injection molded parts."
+  }
+}

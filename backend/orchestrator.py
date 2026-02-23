@@ -1,8 +1,8 @@
 import uuid
 import json
 from crewai import Crew
-from schemas import RawSupplierDataset, FinalSuppliers
-from storage import save_json
+from backend.schemas import RawSupplierDataset, FinalSuppliers
+from backend.storage import save_json
 
 class Orchestrator:
     def __init__(self, researcher, writer, research_task, write_task):

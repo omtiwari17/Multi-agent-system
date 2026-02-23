@@ -1,0 +1,82 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-745fdc12",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Superb Plastics Pvt. Ltd.",
+      "fit_score": 0.85,
+      "strengths": [
+        "Excellent fit for injection molding of ABS parts",
+        "Explicitly states high volume capacity well above 50,000 units/month",
+        "Holds ISO 9001:2015 and IATF 16949 certifications, indicating strong quality management, especially for automotive standards",
+        "Offers additional services like product development and assembly"
+      ],
+      "gaps": [
+        "Lead time not specified",
+        "Minimum Order Quantity (MOQ) not specified"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for injection molded ABS parts for a production run of 50,000+ units?",
+        "What is your minimum order quantity (MOQ)?"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Precision Molds & Plastics",
+      "fit_score": 0.83,
+      "strengths": [
+        "Excellent fit for injection molding of ABS parts",
+        "Explicitly states capacity of over 1 million components monthly, significantly exceeding the requirement",
+        "Holds ISO 9001:2015 certification",
+        "Offers mold manufacturing and product prototyping as complementary capabilities"
+      ],
+      "gaps": [
+        "Lead time not specified",
+        "Minimum Order Quantity (MOQ) not specified",
+        "Only ISO 9001 certification mentioned, no additional quality or environmental certifications (e.g., IATF 16949, ISO 14001)"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for injection molded ABS parts for a production run of 50,000+ units?",
+        "What is your minimum order quantity (MOQ)?",
+        "Do you hold any additional quality (e.g., IATF 16949) or environmental certifications (e.g., ISO 14001)?"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Plastikon Industries India",
+      "fit_score": 0.81,
+      "strengths": [
+        "Good fit for injection molding of ABS parts",
+        "Holds both ISO 9001:2015 and ISO 14001:2015 certifications, demonstrating commitment to quality and environmental management",
+        "Claim of 'high-volume production facilities' with '50+ machines' implies sufficient capacity",
+        "Offers tooling design and assembly as complementary capabilities"
+      ],
+      "gaps": [
+        "Lead time not specified",
+        "Minimum Order Quantity (MOQ) not specified",
+        "Monthly capacity is implied rather than explicitly stated with a specific numerical value"
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for injection molded ABS parts for a production run of 50,000+ units?",
+        "What is your minimum order quantity (MOQ)?",
+        "Can you provide specific figures or examples of your monthly production capacity for ABS injection molding to confirm suitability for 50,000+ units?"
+      ],
+      "evidence_count": 2
+    }
+  ]
+}

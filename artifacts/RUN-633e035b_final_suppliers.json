@@ -1,0 +1,126 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-633e035b",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Bright Brothers Ltd.",
+      "fit_score": 0.85,
+      "strengths": [
+        "Core capabilities (Injection Molding, ABS material, India location, ISO 9001 certification, high monthly capacity) are fully met.",
+        "Multiple manufacturing locations across India.",
+        "Holds additional certifications: ISO 14001:2015 and IATF 16949:2016.",
+        "Offers comprehensive services including Tool Room and Assembly.",
+        "Extensive material processing capabilities beyond ABS."
+      ],
+      "gaps": [
+        "Lead time for specific parts is not specified.",
+        "Minimum Order Quantity (MOQ) is not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are the typical lead times for ABS injection molded parts of varying complexity and volume?",
+        "What is their minimum order quantity for new projects?",
+        "Can they provide case studies or references for similar projects?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Parity Polycomp Pvt Ltd",
+      "fit_score": 0.85,
+      "strengths": [
+        "Core capabilities (Injection Molding, ABS material, India location, ISO 9001 certification, high monthly capacity) are fully met.",
+        "Holds additional certifications: ISO 14001:2015 and ISO 45001:2018.",
+        "Offers in-house Tooling capabilities.",
+        "Processes a wide range of plastic materials."
+      ],
+      "gaps": [
+        "Lead time for specific parts is not specified.",
+        "Minimum Order Quantity (MOQ) is not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are the typical lead times for ABS injection molded parts?",
+        "What is their minimum order quantity?",
+        "How do they manage quality control for high-volume production?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_004",
+      "supplier_name": "Shiv Om Plastic",
+      "fit_score": 0.85,
+      "strengths": [
+        "Core capabilities (Injection Molding, ABS material, India location, ISO 9001 certification, high monthly capacity) are fully met.",
+        "Multiple locations within the Haryana region of India.",
+        "Offers end-to-end services including Product Design & Development, Tool Design & Manufacturing, and Assembly.",
+        "Diverse material handling capabilities."
+      ],
+      "gaps": [
+        "Lead time for specific parts is not specified.",
+        "Minimum Order Quantity (MOQ) is not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are the typical lead times for ABS injection molded parts?",
+        "What is their minimum order quantity?",
+        "Can they provide examples of their product design and development work?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Plastic Components India (PCI)",
+      "fit_score": 0.8166666666666667,
+      "strengths": [
+        "Core capabilities (Injection Molding, ABS material, India location, ISO 9001 certification, high monthly capacity) are fully met.",
+        "Offers comprehensive services including Product Development, Tool Design & Manufacturing, and Assembly.",
+        "Processes a very wide range of engineering plastics, including high-performance polymers."
+      ],
+      "gaps": [
+        "Lead time for specific parts is not specified.",
+        "Minimum Order Quantity (MOQ) is not specified.",
+        "Fewer evidence points found compared to top-ranked suppliers (affecting evidence quality score)."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What is their typical lead time for ABS injection molded components?",
+        "What are their minimum order quantity requirements?",
+        "Request a detailed breakdown of their product development process."
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_005",
+      "supplier_name": "Shree Saibaba Engineering",
+      "fit_score": 0.8166666666666667,
+      "strengths": [
+        "Core capabilities (Injection Molding, ABS material, India location, ISO 9001 certification, high monthly capacity) are fully met.",
+        "Clearly quantified high monthly processing capacity (100-120 tons per month).",
+        "Offers in-house Tooling capabilities."
+      ],
+      "gaps": [
+        "Lead time for specific parts is not specified.",
+        "Minimum Order Quantity (MOQ) is not specified.",
+        "Fewer evidence points found compared to top-ranked suppliers (affecting evidence quality score)."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are their standard lead times for ABS injection molded orders?",
+        "What is their minimum order quantity?",
+        "Inquire about their experience with specific ABS grades and applications."
+      ],
+      "evidence_count": 2
+    }
+  ]
+}

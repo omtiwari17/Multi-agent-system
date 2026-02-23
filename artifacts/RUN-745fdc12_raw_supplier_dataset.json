@@ -1,0 +1,155 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-745fdc12",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Plastikon Industries India",
+      "website": null,
+      "locations": [
+        "Pune, Maharashtra, India",
+        "Chennai, Tamil Nadu, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tooling Design",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@plastikon.in",
+        "phone": null
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.plastikon.in/about-us",
+          "notes": "Overview of capabilities, materials, and locations. Mentions high-volume production facilities.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.plastikon.in/certifications",
+          "notes": "ISO 9001:2015 certification confirmed. Capacity implied by number of machines (50+) and high-volume production claim.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Precision Molds & Plastics",
+      "website": null,
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Mold Manufacturing",
+        "Product Prototyping"
+      ],
+      "materials": [
+        "ABS",
+        "HIPS",
+        "PP",
+        "PC",
+        "PET"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@precisionmolds.co.in",
+        "phone": null
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.precisionmolds.co.in/services",
+          "notes": "Confirms injection molding, mold making, and lists material capabilities including ABS.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.precisionmolds.co.in/about-us",
+          "notes": "ISO 9001:2015 certification mentioned. Explicitly states capacity of over 1 million components monthly.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Superb Plastics Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Ahmedabad, Gujarat, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Product Development",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "SAN",
+        "POM",
+        "Nylon 6",
+        "Nylon 66"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "IATF 16949"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@superbplastics.in",
+        "phone": null
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.superbplastics.in/capabilities",
+          "notes": "Details on injection molding process and material expertise including ABS.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.superbplastics.in/quality",
+          "notes": "ISO 9001:2015 and IATF 16949 certifications. Mentions 30+ machines for high volume production, indicating capacity well above 50,000 units/month.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Suppliers were identified by searching for 'ABS injection molding India ISO 9001 high volume' and similar terms. Company websites were reviewed to verify capabilities, materials, certifications, and infer production capacity. The listed suppliers explicitly mention or strongly imply capacity suitable for 50,000+ units monthly. All identified suppliers operate in India and hold ISO 9001 certification."
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-e6592bb2",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Neelgagan Plastic Industries Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Ghaziabad, Uttar Pradesh, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Mold Designing & Development"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HIPS"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@neelgaganplastic.com",
+        "phone": "+91 9811199341"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.neelgaganplastic.com/about-us.php",
+          "notes": "General company information, capabilities.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.neelgaganplastic.com/manufacturing-facility.php",
+          "notes": "Details on machinery and production capacity ('millions of pieces every month').",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.neelgaganplastic.com/quality-policy.php",
+          "notes": "ISO 9001:2015 certification mentioned.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Parco Plastic Products Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Thane, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Mold Making"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "Nylon",
+        "PC"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@parcoplast.com",
+        "phone": "+91 22 25471016"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.parcoplast.com/about-us.html",
+          "notes": "Company overview, capabilities, materials.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.parcoplast.com/quality.html",
+          "notes": "ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.parcoplast.com/infrastructure.html",
+          "notes": "Manufacturing capacity ('30,000 kgs per month') and machine details.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Fine Moulding Products",
+      "website": null,
+      "locations": [
+        "Chennai, Tamil Nadu, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Moulding",
+        "Mold Design & Tooling"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "PBT"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@finemoulding.com",
+        "phone": "+91 44 2625 2101 / 02"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.finemoulding.com/about-us/",
+          "notes": "Company description, capabilities, types of products.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.finemoulding.com/quality/",
+          "notes": "ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.finemoulding.com/facilities/",
+          "notes": "Details on injection molding machines and scale of production.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Polyplastic Industries",
+      "website": null,
+      "locations": [
+        "Bangalore, Karnataka, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Mold Making"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "PMMA",
+        "HIPS"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@polyplasticindustries.com",
+        "phone": "+91-80-28392170"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.polyplasticindustries.com/about_us.html",
+          "notes": "Company profile, services, materials handled.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.polyplasticindustries.com/quality.html",
+          "notes": "ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.polyplasticindustries.com/manufacturing.html",
+          "notes": "Information on machines and annual processing capacity ('1000 tons').",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Magna Mold India Pvt. Ltd.",
+      "website": null,
+      "locations": [
+        "Pune, Maharashtra, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Mold Manufacturing"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "PBT",
+        "POM"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@magnamold.com",
+        "phone": "+91 20 27488051"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.magnamold.com/about-us.php",
+          "notes": "Company overview, services, materials.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.magnamold.com/quality.php",
+          "notes": "ISO 9001:2015 certification.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.magnamold.com/manufacturing-facility.php",
+          "notes": "Details on injection molding machines and processing capacity ('600 MT per annum').",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Searched for 'injection molding India ABS ISO 9001 capacity'. Identified companies based on their websites detailing process, material capabilities, ISO 9001 certification, and stated manufacturing capacities. Monthly capacity of 50,000 units was inferred from material processing tonnage (kg/month or tons/year) or explicit statements of high volume production, as typical plastic parts weigh significantly less than 1 kg."
+  }
+}

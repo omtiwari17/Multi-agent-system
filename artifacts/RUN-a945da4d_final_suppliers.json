@@ -1,0 +1,114 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-a945da4d",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_005",
+      "supplier_name": "Bright Brothers Ltd.",
+      "fit_score": 0.83,
+      "strengths": [
+        "Most comprehensive capabilities including Tool Room, Product Design, Assembly, Painting, and Printing.",
+        "Highest capacity indicators with multiple plant locations and explicit mention of large-scale manufacturing facilities.",
+        "Strong array of certifications, including ISO 9001, IATF 16949, and ISO 14001."
+      ],
+      "gaps": [
+        "Missing specific lead time information."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for ABS injection molded parts?",
+        "Can you provide specific capacity figures for ABS injection molding?",
+        "Can you elaborate on your experience and capabilities with painting and printing for plastic parts?"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_004",
+      "supplier_name": "Ramsons Precision Engineering Pvt. Ltd.",
+      "fit_score": 0.7475,
+      "strengths": [
+        "Strongest range of certifications, including ISO 9001, IATF 16949, ISO 14001, and OHSAS 18001.",
+        "Offers Prototyping services in addition to core manufacturing capabilities."
+      ],
+      "gaps": [
+        "Missing specific lead time information."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for ABS injection molded parts?",
+        "Can you provide specific capacity figures for ABS injection molding?",
+        "Can you elaborate on your prototyping services and typical turnaround times?"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Jainam Plastic Industries",
+      "fit_score": 0.715,
+      "strengths": [
+        "Offers comprehensive capabilities including Tooling, Product Design, and Assembly.",
+        "Confirms 'large volume production' capability."
+      ],
+      "gaps": [
+        "Missing specific lead time information.",
+        "Limited additional certifications beyond ISO 9001."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for ABS injection molded parts?",
+        "Can you provide specific capacity figures for ABS injection molding?",
+        "Can you provide customer references for similar projects?"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Hi-Tech Plastics",
+      "fit_score": 0.68,
+      "strengths": [
+        "Offers Product Design and Tooling capabilities.",
+        "Confirms 'high-volume production' capability."
+      ],
+      "gaps": [
+        "Missing specific lead time information.",
+        "Limited additional certifications beyond ISO 9001."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for ABS injection molded parts?",
+        "Can you provide specific capacity figures for ABS injection molding?",
+        "Can you provide customer references for similar projects?"
+      ],
+      "evidence_count": 2
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Sunrise Polymers",
+      "fit_score": 0.68,
+      "strengths": [
+        "Provides Tool Design & Development and Assembly services.",
+        "Confirms 'high-volume production' capability."
+      ],
+      "gaps": [
+        "Missing specific lead time information.",
+        "Limited additional certifications beyond ISO 9001."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for ABS injection molded parts?",
+        "Can you provide specific capacity figures for ABS injection molding?",
+        "Can you provide customer references for similar projects?"
+      ],
+      "evidence_count": 2
+    }
+  ]
+}

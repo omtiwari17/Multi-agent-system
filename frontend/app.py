@@ -1,16 +1,22 @@
 import os
+os.environ["CREWAI_TRACING_ENABLED"] = "false"
+os.environ["CREWAI_TELEMETRY_ENABLED"] = "false"
+os.environ["CREWAI_TELEMETRY_DISABLED"] = "true"
+os.environ["CREWAI_DISABLE_TELEMETRY"] = "true"
+os.environ["OTEL_SDK_DISABLED"] = "true"
+
+import sys
+from pathlib import Path
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 import json
 import streamlit as st
 
-from agents import build_researcher, build_writer
-from tasks import research_task, write_task
-from orchestrator import Orchestrator
-
-os.environ.setdefault("CREWAI_TRACING_ENABLED", "false")
-os.environ.setdefault("CREWAI_TELEMETRY_ENABLED", "false")
-os.environ.setdefault("CREWAI_TELEMETRY_DISABLED", "true")
-os.environ["CREWAI_DISABLE_TELEMETRY"] = "true"
-os.environ["OTEL_SDK_DISABLED"] = "true"
+from backend.agents import build_researcher, build_writer
+from backend.tasks import research_task, write_task
+from backend.orchestrator import Orchestrator
 
 # ----------------------------
 # Page Setup

@@ -1,0 +1,118 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-e6592bb2",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Magna Mold India Pvt. Ltd.",
+      "fit_score": 85.0,
+      "strengths": [
+        "Offers 'Injection Molding' process.",
+        "Works with material 'ABS'.",
+        "Located in 'India'.",
+        "Holds 'ISO 9001' certification.",
+        "Meets or exceeds required monthly capacity of 50000 units."
+      ],
+      "gaps": [
+        "Lead time information not available."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects/orders?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Neelgagan Plastic Industries Pvt. Ltd.",
+      "fit_score": 85.0,
+      "strengths": [
+        "Offers 'Injection Molding' process.",
+        "Works with material 'ABS'.",
+        "Located in 'India'.",
+        "Holds 'ISO 9001' certification.",
+        "Meets or exceeds required monthly capacity of 50000 units."
+      ],
+      "gaps": [
+        "Lead time information not available."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects/orders?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Parco Plastic Products Pvt. Ltd.",
+      "fit_score": 85.0,
+      "strengths": [
+        "Offers 'Injection Molding' process.",
+        "Works with material 'ABS'.",
+        "Located in 'India'.",
+        "Holds 'ISO 9001' certification.",
+        "Meets or exceeds required monthly capacity of 50000 units."
+      ],
+      "gaps": [
+        "Lead time information not available."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects/orders?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_004",
+      "supplier_name": "Polyplastic Industries",
+      "fit_score": 85.0,
+      "strengths": [
+        "Offers 'Injection Molding' process.",
+        "Works with material 'ABS'.",
+        "Located in 'India'.",
+        "Holds 'ISO 9001' certification.",
+        "Meets or exceeds required monthly capacity of 50000 units."
+      ],
+      "gaps": [
+        "Lead time information not available."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your typical lead times for new projects/orders?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_005",
+      "supplier_name": "Fine Moulding Products",
+      "fit_score": 65.0,
+      "strengths": [
+        "Offers 'Injection Molding' process.",
+        "Works with material 'ABS'.",
+        "Located in 'India'.",
+        "Holds 'ISO 9001' certification."
+      ],
+      "gaps": [
+        "Monthly capacity not explicitly stated or does not meet 50000 units.",
+        "Lead time information not available."
+      ],
+      "risk_flags": [
+        "Insufficient or unverified capacity information."
+      ],
+      "recommended_next_questions": [
+        "Provide clear details on monthly production capacity for ABS injection molding.",
+        "What are your typical lead times for new projects/orders?"
+      ],
+      "evidence_count": 3
+    }
+  ]
+}
