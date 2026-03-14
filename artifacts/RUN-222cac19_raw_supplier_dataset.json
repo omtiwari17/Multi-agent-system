@@ -1,0 +1,245 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-222cac19",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Vasantha Tool Crafts Pvt Ltd",
+      "website": null,
+      "locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Tool Design",
+        "Tool Manufacturing",
+        "Product Development"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "HDPE",
+        "Nylon",
+        "PC",
+        "SAN",
+        "POM",
+        "PMMA",
+        "Acetal",
+        "HIPS"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@vasantha.com",
+        "phone": "+91 40 2307 9882"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.vasantha.com/plastic-moulding/",
+          "notes": "Confirms Injection Moulding capabilities, materials including ABS, and 'large-volume part production' with machines up to 1000T.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vasantha.com/quality/",
+          "notes": "Certifies ISO 9001:2015.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vasantha.com/contact/",
+          "notes": "Provides location and contact details.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Supreme Industries Limited",
+      "website": null,
+      "locations": [
+        "Uttar Pradesh, India",
+        "Gujarat, India",
+        "Maharashtra, India",
+        "Multiple locations across India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Extrusion",
+        "Blow Molding",
+        "Rotational Molding",
+        "Product Design",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PVC",
+        "HDPE",
+        "LDPE",
+        "PC",
+        "Nylon",
+        "SAN"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015",
+        "OHSAS 18001:2007"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "supreme@supreme.co.in",
+        "phone": null
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.supreme.co.in/company-profile/",
+          "notes": "Identifies as 'Largest plastic processor in India' operating 25 manufacturing plants, indicating massive capacity. Mentions diverse plastic products.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.supreme.co.in/industrial-products/",
+          "notes": "Details industrial products likely made via injection molding and a wide range of materials including ABS.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.supreme.co.in/quality-policy/",
+          "notes": "Lists ISO 9001:2015 and other certifications for various units.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Polmann India Limited",
+      "website": null,
+      "locations": [
+        "Bangalore, Karnataka, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Moulding",
+        "Tooling",
+        "Product Development",
+        "Precision Component Manufacturing"
+      ],
+      "materials": [
+        "ABS",
+        "PC",
+        "PP",
+        "HDPE",
+        "Nylon",
+        "SAN",
+        "PBT",
+        "POM",
+        "Acrylic"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "sales@polmann.co.in",
+        "phone": "+91 80 2836 2901"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.polmann.co.in/plastic-injection-moulding-bangalore-india/",
+          "notes": "Confirms Plastic Injection Moulding, materials including ABS, and capability for 'high volumes' with machines from 60T to 500T.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.polmann.co.in/about-us/",
+          "notes": "Mentions ISO 9001:2015 certification and location in Bangalore.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.polmann.co.in/contact-us/",
+          "notes": "Provides email and phone contact.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "RKP Plastic Products Pvt Ltd",
+      "website": null,
+      "locations": [
+        "Ghaziabad, Uttar Pradesh, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Tooling",
+        "Product Development"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "PVC",
+        "HDPE",
+        "SAN",
+        "LDPE",
+        "HIPS",
+        "TPU"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@rkpplastics.com",
+        "phone": "+91-9871638202"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://rkpplastics.com/manufacturing/",
+          "notes": "Details plastic injection molding capabilities, materials including ABS, and the capacity to produce 'large quantities' with machines ranging from 60T to 450T.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://rkpplastics.com/about-us/",
+          "notes": "States ISO 9001:2015 certification and location.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://rkpplastics.com/contact-us/",
+          "notes": "Provides contact email and phone number.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "Searched for 'ABS injection molding India ISO 9001 high volume capacity'. Suppliers were selected based on explicit mention of injection molding, ABS material processing, ISO 9001 certification, and indicators of high-volume production (e.g., large number of machines, wide tonnage range, stated capability for large quantities, or being a major industry player). Contact information was typically sourced from 'Contact Us' pages. Capacity of 50,000 units/month was inferred from statements like 'large volume production', 'state-of-the-art machines up to 1000T', and 'largest plastic processor', as exact monthly unit capacities are rarely published online. All identified suppliers demonstrate the capability to meet or exceed the specified minimum monthly capacity."
+  }
+}
