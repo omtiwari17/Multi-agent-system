@@ -1,0 +1,284 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-bfd2e56d",
+  "query": {
+    "process": "Injection Molding",
+    "material": [
+      "ABS"
+    ],
+    "location_preference": [
+      "India"
+    ],
+    "certifications": [
+      "ISO 9001"
+    ],
+    "monthly_capacity_min": 50000
+  },
+  "suppliers": [
+    {
+      "supplier_name": "Bright Brothers Ltd.",
+      "website": null,
+      "locations": [
+        "Puducherry, India",
+        "Ghaziabad, Uttar Pradesh, India",
+        "Chennai, Tamil Nadu, India",
+        "Baddi, Himachal Pradesh, India",
+        "Haridwar, Uttarakhand, India"
+      ],
+      "capabilities": [
+        "Plastic Injection Molding",
+        "Blow Molding",
+        "Tooling",
+        "Product Design",
+        "Assembly"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "Acrylic",
+        "HIPS",
+        "SAN",
+        "LDPE",
+        "HDPE",
+        "POM",
+        "PBT",
+        "TPE",
+        "TPR",
+        "TPV"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "IATF 16949:2016",
+        "ISO 14001:2015",
+        "ISO 45001:2018"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "bb@brightbrothers.co.in",
+        "phone": "+91 22 4001 0200"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.brightbrothers.co.in/about-us",
+          "notes": "Information on multiple locations, capabilities, and certifications.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.brightbrothers.co.in/manufacturing",
+          "notes": "Details on injection molding process, types of machines, and material handling including ABS. Mentions over 300 machines and 40,000 tonnes annual processing capacity.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Shree Balaji Industries",
+      "website": null,
+      "locations": [
+        "Vapi, Gujarat, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Mold Design",
+        "Tooling"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE",
+        "LDPE",
+        "HIPS",
+        "Acrylic"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@shreebalajiindia.com",
+        "phone": "+91 99040 03003"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.shreebalajiindia.com/about-us/",
+          "notes": "Mentions ISO 9001:2015 certification, location, and commitment to quality.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.shreebalajiindia.com/infrastructure/",
+          "notes": "Details on injection molding machines (100T to 450T) and infrastructure for large volume production. Mentions capability to process ABS.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.shreebalajiindia.com/our-products/",
+          "notes": "Examples of products made from various plastics, including ABS, showing expertise.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Vasantham Enterprises",
+      "website": null,
+      "locations": [
+        "Chennai, Tamil Nadu, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Mold Making"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HIPS",
+        "HDPE",
+        "LDPE",
+        "Acrylic",
+        "POM"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "vasantham_enterprises@yahoo.com",
+        "phone": "+91 98404 03070"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.vasanthamenterprises.com/about-us/",
+          "notes": "Confirms ISO 9001:2015 certification and location in Chennai.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vasanthamenterprises.com/plastic-injection-moulding-service.html",
+          "notes": "Describes injection molding services, types of materials handled including ABS, and machinery from 40T to 500T for large scale production.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Vimal Plastic",
+      "website": null,
+      "locations": [
+        "Rajkot, Gujarat, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Mold Making",
+        "Tooling"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "HDPE",
+        "LDPE",
+        "HIPS",
+        "SAN"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "info@vimalplastic.com",
+        "phone": "+91 281 2381284"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.vimalplastic.com/about-us.html",
+          "notes": "Mentions ISO 9001:2015 certification and location in Rajkot.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vimalplastic.com/infrastructure.html",
+          "notes": "Details on infrastructure and injection molding machines (30T to 450T) capable of high-volume production for various industries.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.vimalplastic.com/products.html",
+          "notes": "Examples of plastic components, indicating use of engineering plastics like ABS.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    },
+    {
+      "supplier_name": "Precision Moulds & Dies (PMD)",
+      "website": null,
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "capabilities": [
+        "Injection Molding",
+        "Mould Making",
+        "Product Design",
+        "Tooling"
+      ],
+      "materials": [
+        "ABS",
+        "PP",
+        "PC",
+        "Nylon",
+        "Acrylic",
+        "HIPS",
+        "POM",
+        "PE",
+        "PS",
+        "SAN",
+        "TPU",
+        "TPE"
+      ],
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "lead_time_weeks": null,
+      "min_order_qty": null,
+      "contact": {
+        "email": "pmd@precisionmoulds.com",
+        "phone": "+91 80 2839 8839"
+      },
+      "evidence": [
+        {
+          "type": "web",
+          "url": "https://www.precisionmoulds.com/about-us.php",
+          "notes": "Confirms ISO 9001:2015 certification, location, and core business.",
+          "captured_at": null
+        },
+        {
+          "type": "web",
+          "url": "https://www.precisionmoulds.com/facilities.php",
+          "notes": "Details on manufacturing facilities, including over 20 injection molding machines (30T to 650T), supporting high-volume requirements. Mentions capability to process ABS.",
+          "captured_at": null
+        }
+      ],
+      "raw_notes": null
+    }
+  ],
+  "research_notes": {
+    "summary": "All identified suppliers explicitly state ISO 9001 certification and list ABS among their handled materials for injection molding. While exact monthly unit capacity (50,000 units) is rarely stated directly on company websites, all selected suppliers have significant machine parks (multiple machines ranging from 100T to 650T, or a high total machine count like Bright Brothers' 300+ machines) and explicitly mention 'large scale production', 'high volume capabilities', or 'state-of-the-art infrastructure for high volume'. This indicates they are capable of meeting or exceeding the minimum monthly capacity requirement of 50,000 units for typical plastic parts."
+  }
+}
