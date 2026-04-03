@@ -1,3 +1,13 @@
+import sys
+
+if sys.platform != "win32":
+    try:
+        __import__('pysqlite3')
+        import sys
+        sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+    except ImportError:
+        pass
+
 import os
 os.environ["CREWAI_TRACING_ENABLED"] = "false"
 os.environ["CREWAI_TELEMETRY_ENABLED"] = "false"
@@ -5,7 +15,6 @@ os.environ["CREWAI_TELEMETRY_DISABLED"] = "true"
 os.environ["CREWAI_DISABLE_TELEMETRY"] = "true"
 os.environ["OTEL_SDK_DISABLED"] = "true"
 
-import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
