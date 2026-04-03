@@ -1,0 +1,130 @@
+{
+  "artifact_version": "1.0",
+  "run_id": "RUN-385caa22",
+  "ranking_method": {
+    "weights": {
+      "capability_fit": 0.35,
+      "certifications": 0.2,
+      "capacity": 0.2,
+      "lead_time": 0.15,
+      "evidence_quality": 0.1
+    }
+  },
+  "suppliers": [
+    {
+      "supplier_id": "sup_001",
+      "supplier_name": "Excel Injection Moulders Pvt. Ltd.",
+      "fit_score": 0.85,
+      "strengths": [
+        "Offers Plastic Injection Molding (matches required process).",
+        "Capable of working with ABS material (matches required material).",
+        "Located in India (matches location preference).",
+        "Holds ISO 9001:2015 certification (matches required certification).",
+        "Verified monthly capacity of approx. 200 tonnes per month, exceeding 50,000 units/month."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum order quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your standard lead times for new tooling and production runs?",
+        "What is your minimum order quantity for ABS injection molded parts?",
+        "Can you provide details on your quality control processes beyond ISO 9001?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_002",
+      "supplier_name": "Classic Plastech Pvt Ltd.",
+      "fit_score": 0.85,
+      "strengths": [
+        "Offers Plastic Injection Molding (matches required process).",
+        "Capable of working with ABS material (matches required material).",
+        "Located in India (matches location preference).",
+        "Holds ISO 9001:2015 certification (matches required certification).",
+        "Verified monthly capacity of 100-120 tonnes, exceeding 50,000 units/month."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum order quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your standard lead times for new tooling and production runs?",
+        "What is your minimum order quantity for ABS injection molded parts?",
+        "Can you provide details on your quality control processes beyond ISO 9001?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_003",
+      "supplier_name": "Precision Plastic Products Co.",
+      "fit_score": 0.85,
+      "strengths": [
+        "Offers Injection Molding (matches required process).",
+        "Capable of working with ABS material (matches required material).",
+        "Located in India (matches location preference).",
+        "Holds ISO 9001:2015 certification (matches required certification).",
+        "Verified monthly capacity of approx. 100 tonnes, exceeding 50,000 units/month."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum order quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your standard lead times for new tooling and production runs?",
+        "What is your minimum order quantity for ABS injection molded parts?",
+        "Can you provide details on your quality control processes beyond ISO 9001?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_004",
+      "supplier_name": "Samarth Engineering Works",
+      "fit_score": 0.85,
+      "strengths": [
+        "Offers Injection Molding (matches required process).",
+        "Capable of working with ABS material (matches required material).",
+        "Located in India (matches location preference).",
+        "Holds ISO 9001:2015 certification (matches required certification).",
+        "Verified monthly capacity of approx. 120 tonnes per month, exceeding 50,000 units/month."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum order quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your standard lead times for new tooling and production runs?",
+        "What is your minimum order quantity for ABS injection molded parts?",
+        "Can you provide details on your quality control processes beyond ISO 9001?"
+      ],
+      "evidence_count": 3
+    },
+    {
+      "supplier_id": "sup_005",
+      "supplier_name": "Bharat Group (Bharat Plastic Industries)",
+      "fit_score": 0.85,
+      "strengths": [
+        "Offers Plastic Injection Molding (matches required process).",
+        "Capable of working with ABS material (matches required material).",
+        "Located in India (matches location preference).",
+        "Holds ISO 9001:2015 certification (matches required certification).",
+        "Verified capacity to produce 'millions of components per month', exceeding 50,000 units/month."
+      ],
+      "gaps": [
+        "Lead time information not provided.",
+        "Minimum order quantity (MOQ) not specified."
+      ],
+      "risk_flags": [],
+      "recommended_next_questions": [
+        "What are your standard lead times for new tooling and production runs?",
+        "What is your minimum order quantity for ABS injection molded parts?",
+        "Can you provide details on your quality control processes beyond ISO 9001?"
+      ],
+      "evidence_count": 3
+    }
+  ]
+}
