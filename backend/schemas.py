@@ -1,4 +1,4 @@
-from pydantic import BaseModel, Field, HttpUrl
+from pydantic import BaseModel, Field, HttpUrl, field_validator # <-- Added field_validator here
 from typing import List, Optional, Dict, Any, Union
 
 class Evidence(BaseModel):
@@ -7,6 +7,15 @@ class Evidence(BaseModel):
     notes: str
     captured_at: Optional[str] = None
 
+    # --- ADDED THIS BLOCK TO FIX LAZY URLS ---
+    @field_validator('url', mode='before')
+    @classmethod
+    def ensure_scheme(cls, v):
+        if isinstance(v, str) and not v.startswith(('http://', 'https://')):
+            return f'https://{v}'
+        return v
+    # -----------------------------------------
+
 class Contact(BaseModel):
     email: Optional[str] = None
     phone: Optional[str] = None
@@ -14,6 +23,16 @@ class Contact(BaseModel):
 class RawSupplier(BaseModel):
     supplier_name: str
     website: Optional[HttpUrl] = None
+
+    # --- ADDED THIS BLOCK TO PROTECT THE WEBSITE FIELD TOO ---
+    @field_validator('website', mode='before')
+    @classmethod
+    def ensure_website_scheme(cls, v):
+        if isinstance(v, str) and not v.startswith(('http://', 'https://')):
+            return f'https://{v}'
+        return v
+    # ---------------------------------------------------------
+    
     locations: List[str] = []
     capabilities: List[str] = []
     materials: List[str] = []
