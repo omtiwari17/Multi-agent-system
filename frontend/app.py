@@ -188,4 +188,20 @@ if submitted:
             )
 
     except Exception as e:
-        st.exception(e)
+        error_msg = str(e)
+        
+        # Check if it is the specific Google Server/503 error
+        if "503" in error_msg or "UNAVAILABLE" in error_msg or "ServerError" in error_msg:
+            # Use Streamlit's UI elements to make it look intentional and designed
+            st.error("🚨 **External Service Unavailable**", icon="🛑")
+            st.info(
+                "Google's AI servers are currently at maximum capacity. "
+                "This is a temporary traffic jam on their end, not a bug in the manufacturing app! "
+                "Please wait a few minutes and try your query again."
+            )
+            st.stop() # This stops the app gracefully without printing the red traceback
+            
+        else:
+            # If it's a real bug in your code (like a typo), it will still show the normal error so you can fix it
+            st.error("An unexpected error occurred.")
+            st.exception(e)

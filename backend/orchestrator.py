@@ -60,8 +60,24 @@ class Orchestrator:
 
         # Validation gate (schema)
         state = "RESEARCH_VALIDATION"
-        raw_json = json.loads(str(raw_out))
-        raw_json["run_id"] = run_id  # enforce
+        
+        # 1. Convert the raw output to a string
+        raw_text = str(raw_out).strip()
+        
+        # 2. Clean out the markdown formatting if the LLM ignored instructions
+        if raw_text.startswith("```json"):
+            raw_text = raw_text.replace("```json", "", 1)
+        if raw_text.startswith("```"):
+            raw_text = raw_text.replace("```", "", 1)
+        if raw_text.endswith("```"):
+            # Use rsplit to only remove the last occurrence 
+            raw_text = raw_text.rsplit("```", 1)[0]
+            
+        raw_text = raw_text.strip()
+        
+        # 3. Parse the cleaned string
+        raw_json = json.loads(raw_text)
+        raw_json["run_id"] = run_id  # enforce 
 
 
 
@@ -73,7 +89,7 @@ class Orchestrator:
             raw_json["research_notes"] = {}
 
         self._normalize_locations(raw_json)
-        raw = RawSupplierDataset.model_validate(raw_json)
+        raw =   .model_validate(raw_json)
 
         # Hard rule: every supplier must have evidence
         for s in raw.suppliers:
