@@ -89,7 +89,7 @@ class Orchestrator:
             raw_json["research_notes"] = {}
 
         self._normalize_locations(raw_json)
-        raw =   .model_validate(raw_json)
+        raw =  RawSupplierDataset.model_validate(raw_json)
 
         # Hard rule: every supplier must have evidence
         for s in raw.suppliers:
